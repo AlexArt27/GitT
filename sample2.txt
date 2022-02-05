@@ -1,1 +1,4 @@
 sampl2text
+Learning to fetch
+
+fetch pull changes only, no merge
