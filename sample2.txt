@@ -1,1 +1,9 @@
 sampl2text
+
+Learning to fetch
+fetch pull changes only, no merge
+
+lets see git fetch
+MORE FETCHING
+AND HERE
+
